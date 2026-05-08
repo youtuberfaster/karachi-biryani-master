@@ -1,202 +1,207 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <!-- Main Page -->
   <url>
-    <loc>https://karachibiryani.com/index.html</loc>
+    <loc>https://biryanimaster.netlify.app/</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>1.0</priority>
-  </url>
-  
-  <!-- Biryani Recipes -->
-  <url>
-    <loc>https://karachibiryani.com/chicken-biryani.html</loc>
-    <lastmod>2026-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>1.00</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/chicken-white-biryani.html</loc>
+    <loc>https://biryanimaster.netlify.app/chicken-biryani.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
+    <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/beef-biryani.html</loc>
+    <loc>https://biryanimaster.netlify.app/chicken-white-biryani.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.9</priority>
-  </url>
-  
-  <!-- Pulao Recipes -->
-  <url>
-    <loc>https://karachibiryani.com/chicken-pulao.html</loc>
-    <lastmod>2026-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/beef-pulao.html</loc>
+    <loc>https://biryanimaster.netlify.app/beef-biryani.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.90</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/banu-pulao.html</loc>
+    <loc>https://biryanimaster.netlify.app/chicken-pulao.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/peshawri-banu-pulao.html</loc>
+    <loc>https://biryanimaster.netlify.app/beef-pulao.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Karahi Recipes -->
-  <url>
-    <loc>https://karachibiryani.com/chicken-shenwari-karahi.html</loc>
-    <lastmod>2026-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/chicken-white-karahi.html</loc>
+    <loc>https://biryanimaster.netlify.app/banu-pulao.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/chicken-green-karahi.html</loc>
+    <loc>https://biryanimaster.netlify.app/peshawri-banu-pulao.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/beef-karahi.html</loc>
+    <loc>https://biryanimaster.netlify.app/chicken-qorma.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/mutton-karahi.html</loc>
+    <loc>https://biryanimaster.netlify.app/chicken-shenwari-karahi.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/dumba-karahi.html</loc>
+    <loc>https://biryanimaster.netlify.app/chicken-white-karahi.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Handi Recipes -->
-  <url>
-    <loc>https://karachibiryani.com/chicken-handi.html</loc>
-    <lastmod>2026-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/chicken-white-handi.html</loc>
+    <loc>https://biryanimaster.netlify.app/chicken-green-karahi.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/chicken-paneer-reshmi-handi.html</loc>
+    <loc>https://biryanimaster.netlify.app/chicken-handi.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/chicken-makhni-handi.html</loc>
+    <loc>https://biryanimaster.netlify.app/chicken-white-handi.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Qorma & Nehari -->
-  <url>
-    <loc>https://karachibiryani.com/chicken-qorma.html</loc>
-    <lastmod>2026-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/beef-qorma-dany-dar.html</loc>
+    <loc>https://biryanimaster.netlify.app/chicken-paneer-reshmi-handi.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/chicken-nehari.html</loc>
+    <loc>https://biryanimaster.netlify.app/chicken-makhni-handi.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/beef-nehari.html</loc>
+    <loc>https://biryanimaster.netlify.app/beef-karahi.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Paya Recipes -->
-  <url>
-    <loc>https://karachibiryani.com/lahori-paya.html</loc>
-    <lastmod>2026-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/nali-paya.html</loc>
+    <loc>https://biryanimaster.netlify.app/mutton-karahi.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  
-  <!-- Daal Recipes -->
-  <url>
-    <loc>https://karachibiryani.com/dal-chana.html</loc>
-    <lastmod>2026-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/dal-mash.html</loc>
+    <loc>https://biryanimaster.netlify.app/mutton-namkeen-karahi.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/dal-mong.html</loc>
+    <loc>https://biryanimaster.netlify.app/dumba-karahi.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <!-- Masala Recipes -->
-  <url>
-    <loc>https://karachibiryani.com/biryani-masala-banane-ka-tarika.html</loc>
-    <lastmod>2026-05-07</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/salan-masala-banane-ka-tarika.html</loc>
+    <loc>https://biryanimaster.netlify.app/beef-qorma-dany-dar.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.85</priority>
   </url>
   <url>
-    <loc>https://karachibiryani.com/nehari-masala-banane-ka-tarika.html</loc>
+    <loc>https://biryanimaster.netlify.app/dal-chana.html</loc>
     <lastmod>2026-05-07</lastmod>
     <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.80</priority>
   </url>
-  
+  <url>
+    <loc>https://biryanimaster.netlify.app/dal-mash.html</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://biryanimaster.netlify.app/dal-mong.html</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://biryanimaster.netlify.app/aloo-qeema.html</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://biryanimaster.netlify.app/chicken-nehari.html</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://biryanimaster.netlify.app/beef-nehari.html</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://biryanimaster.netlify.app/lahori-paya.html</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://biryanimaster.netlify.app/nali-paya.html</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://biryanimaster.netlify.app/lahori-cholay.html</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://biryanimaster.netlify.app/khoy-wale-lahori-cholay.html</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://biryanimaster.netlify.app/biryani-masala-banane-ka-tarika.html</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://biryanimaster.netlify.app/salan-masala-banane-ka-tarika.html</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
+  <url>
+    <loc>https://biryanimaster.netlify.app/nehari-masala-banane-ka-tarika.html</loc>
+    <lastmod>2026-05-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.75</priority>
+  </url>
 </urlset>
