@@ -1,4 +1,11 @@
+# Robots.txt for Karachi Biryani Master
+# Allow all crawlers to access the site
+
 User-agent: *
 Allow: /
 
-Sitemap: https://biryanimaster.netlify.app/sitemap.xml
+# Specify sitemap location
+Sitemap: https://karachi-biryani-master.netlify.app/sitemap.xml
+
+# Crawl delay to be respectful
+Crawl-delay: 1
