@@ -1,15 +1,4 @@
-# Google Search Console Verification (Add your verification code here)
-# User-agent: Googlebot
-# Disallow:
-
 User-agent: *
 Allow: /
 
-Sitemap: https://karachibiryani.com/sitemap.xml
-
-# Crawl delay to be respectful to the server
-Crawl-delay: 1
-
-# Disallow admin or private areas if any
-Disallow: /private/
-Disallow: /temp/
+Sitemap: https://biryanimaster.netlify.app/sitemap.xml
